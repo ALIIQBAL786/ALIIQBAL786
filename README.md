@@ -4,7 +4,8 @@
 
 ### Research Engineer | Full Stack Developer | AWS Certified Solutions Architect | Open Source Contributor
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mern-stack4.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Dev_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mern-stack4.vercel.app)
+[![Network Portfolio](https://img.shields.io/badge/Network_Portfolio-020c18?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://networking-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali776)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliiqball715@gmail.com)
 
