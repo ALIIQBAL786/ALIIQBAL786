@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ali Iqbal 👋
 
-### Research Engineer | Full Stack Developer | Open Source Contributor | Cloud Enthusiast
+### Research Engineer | Full Stack Developer | AWS Certified Solutions Architect | Open Source Contributor
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mern-stack4.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali776)
@@ -74,7 +74,8 @@
 
 ### 🏆 Certifications
 
-- ☁️ **AWS Certified Solutions Architect – Associate** *(Feb 2026 – Feb 2029)*
+- ☁️ **AWS Certified Solutions Architect – Associate** — Amazon Web Services *(Feb 2026 – Feb 2029)*  
+  ![AWS](https://img.shields.io/badge/AWS_SAA-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 - 🐧 **LFS114: Introduction to free5GC** — The Linux Foundation *(Jan 2026)*
 
 ---
