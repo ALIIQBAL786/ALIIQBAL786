@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ali Iqbal 👋
 
-### Full Stack Developer | Open Source Contributor | Cloud Enthusiast
+### Research Engineer | Full Stack Developer | Open Source Contributor | Cloud Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mern-stack4.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali776)
@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Engineering graduate from **NUST**, Islamabad
-- 🔭 Currently working on **full-stack web applications** and **open-source projects**
+- 🔭 Currently working as a **Research Engineer** building full-stack applications and contributing to open-source projects
 - 🌱 Always learning something new — lately diving deeper into **cloud architecture** and **API design**
 - 🤝 Open to **collaborations**, **freelance projects**, and **full-time roles**
 - ⚡ Fun fact: I've contributed to projects used by global telecom operators
