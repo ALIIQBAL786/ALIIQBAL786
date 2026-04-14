@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ali Iqbal 👋
 
-### Research Engineer | Full Stack Developer | AWS Certified Solutions Architect | Open Source Contributor
+### Research Engineer | DevOps Engineer | AWS Certified Solutions Architect | Open Source Contributor
 
 [![Portfolio](https://img.shields.io/badge/Dev_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mern-stack4.vercel.app)
 [![Network Portfolio](https://img.shields.io/badge/Network_Portfolio-020c18?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://networking-portfolio.vercel.app)
@@ -16,10 +16,11 @@
 ### 👨‍💻 About Me
 
 - 🎓 Engineering graduate from **NUST**, Islamabad
-- 🔭 Currently working as a **Research Engineer** contributing to open-source projects and cloud-native systems
-- 🌱 Specialized in **IaC, Cloud Automation, and Container Orchestration**
+- 🔭 Currently working as a **Research & DevOps Engineer** at **xFlow Research Inc.**
+- 🌍 Collaborated with **Vodafone** and **GSMA** representatives on API proposals and technical alignment
+- 🌱 Specialized in **IaC, Cloud Automation, and Container Orchestration** — Docker, K8s, Terraform, CI/CD
+- 📦 **12+ approved open-source contributions** to the Linux Foundation CAMARA project
 - 🤝 Open to **collaborations**, **freelance projects**, and **full-time roles**
-- ⚡ Fun fact: I've contributed to projects used by global telecom operators
 
 ---
 
@@ -85,12 +86,12 @@
 
 | Project | Description |
 |--------|-------------|
-| [Containerized Core Deployment](https://github.com/ALIIQBAL786/Wanderlust-Mega-Project) | Modular microservice deployment with Docker & Kubernetes, optimized for low-latency container networking |
+| [Containerized Core Deployment (Free5GC)](https://github.com/ALIIQBAL786/Wanderlust-Mega-Project) | Modular 3GPP-aligned network functions deployed via Docker & Kubernetes with optimized container networking |
 | [Infrastructure Automation (AWS)](https://github.com/ALIIQBAL786/multi-branch-pipeline) | Reusable Terraform modules for EC2, S3 & DynamoDB across Dev/Prod environments with full lifecycle automation |
+| [LF CAMARA Open-Source](https://github.com/camaraproject) | 12 approved technical contributions — standardized test scenarios & automated documentation workflows |
 | [Task Manager](https://github.com/ALIIQBAL786/taskmanager) | Full-stack app with JWT auth, RBAC & Kanban board |
 | [Real-Time Chat](https://github.com/ALIIQBAL786/chat-app) | One-to-one & group chat with live presence indicators |
 | [Expense Tracker](https://github.com/ALIIQBAL786/expense-tracker) | Dashboard with charts & server-side PDF export |
-| [Job Board](https://github.com/ALIIQBAL786/job-board) | RBAC job platform with full application pipeline |
 
 ---
 
